@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Assignment1 Question1"
+date:   2019-03-15 19:48:53 +0530
+categories: jekyll update
+---
+
+In question 1 we had to make a dataset of lines by varying 4 parameters.
+1. Length 7/15 pixels
+2. Thickness 1/3 pixels
+3. Angle with x axis [0,180)
+4. Color
+
+We had to translate images to produce 1000 variations for intra class variatons.
+
+Code can be found in the [GitHub repository][git-repo].
+
+Video can be found [here][video-link]
+
+[git-repo]: https://github.com/adityas1297/Deep-learning-ass1
+[video-link]: https://drive.google.com/open?id=1WmjftygHBECIg2-lGjAvbv_2LzmTKEoE
+
+
