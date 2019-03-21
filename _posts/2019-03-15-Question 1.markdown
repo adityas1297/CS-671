@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assignment1 Question1"
+title:  "Assignment1"
 date:   2019-03-15 19:48:53 +0530
 categories: jekyll update
 ---
@@ -17,7 +17,15 @@ Code can be found in the [GitHub repository][git-repo].
 
 Video can be found [here][video-link]
 
+
+In question 2 we created a computational graph in Tensorflow to update the position and velocity of the particles. Also implemented the same solution without tensorflow.
+
+Code can be found in the [GitHub repository][git-repo-1].
+
+
 [git-repo]: https://github.com/adityas1297/Deep-learning-ass1
 [video-link]: https://drive.google.com/open?id=1WmjftygHBECIg2-lGjAvbv_2LzmTKEoE
+
+[git-repo-1]:https://github.com/adityas1297/Deep-learning-ass1/tree/master/2
 
 
