@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Assignment 3"
+date:   2019-05-6 01:18:53 +0530
+categories: jekyll update
+---
+
+Assignment 3
+
+
+Code can be found in the [GitHub repository][git-repo].
+
+
+
+[git-repo]: https://github.com/adityas1297/Deep-learning-ass2
+
+
